@@ -1,5 +1,5 @@
 ##### Codewars
-#### The app is my Portfolio, 1/11/2024
+#### The app is a codewars challange, 1/11/2024
 #### **Elijah Elih**
 
 ## Setup/Installation Instruction
