@@ -18,7 +18,7 @@ The application includes a  landing page showing two code war challenges and how
 The application works perfectly well, no bugs.
 
 ## Technologies Used
-React
+HTML, CSS , Javascript, React, GIT
 
 ## Support and contact details
 email :: 1samempire@gmail.com
