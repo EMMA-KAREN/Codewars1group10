@@ -1,4 +1,4 @@
-# Portfolio
+
 #### The app is my code war challenges
 #### **By Samson Mwaura Wanjiru**
 ## Description
